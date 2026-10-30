@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Tracks per-job labor + materials + margin so a contractor sees which job types lose money before month-end.",
+  "keywords": [
+    "cost",
+    "job",
+    "kairos",
+    "small business",
+    "tracker"
+  ],
+  "license": "MIT",
+  "name": "kairos-job-cost-tracker",
+  "repository": "https://github.com/baselam88/kairos-job-cost-tracker-plugin",
+  "version": "0.1.0"
+}
